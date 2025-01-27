@@ -10,7 +10,9 @@
 
 
 # 📈 Stats 
+![Jopa's GitHub stats](https://github-readme-stats.vercel.app/api?username=imjopa&show_icons=true&theme=transparent)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imjopa&layout=compact)
 
 # 🔥 Some Skills I Have
 <div style="display:inline_block"><br/>
